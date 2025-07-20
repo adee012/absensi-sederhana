@@ -18,7 +18,7 @@ Aplikasi web absensi sederhana berbasis Laravel. Karyawan dapat melakukan absens
 
 ```bash
 git clone https://github.com/adee012/absensi-sederhana.git
-cd project-absensi
+cd absensi-sederhana
 ```
 
 ### 2. Clone Project
